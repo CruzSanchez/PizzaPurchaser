@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaPurchaser", "PizzaPurchaser\PizzaPurchaser.csproj", "{C3FC4F20-D5EF-41B5-B961-B43CCCB92E72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaPurchaserConsoleUI", "PizzaPurchaserConsoleUI\PizzaPurchaserConsoleUI.csproj", "{F9397842-E35B-451B-8DC6-F0705A569E82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C3FC4F20-D5EF-41B5-B961-B43CCCB92E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3FC4F20-D5EF-41B5-B961-B43CCCB92E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3FC4F20-D5EF-41B5-B961-B43CCCB92E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3FC4F20-D5EF-41B5-B961-B43CCCB92E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9397842-E35B-451B-8DC6-F0705A569E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9397842-E35B-451B-8DC6-F0705A569E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9397842-E35B-451B-8DC6-F0705A569E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9397842-E35B-451B-8DC6-F0705A569E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
